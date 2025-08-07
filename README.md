@@ -1,2 +1,2 @@
-# PROJECT
-AgriData Explorer: Understanding Indian agriculture with EDA
+# AgriData Explorer: Understanding Indian agriculture with EDA
+
